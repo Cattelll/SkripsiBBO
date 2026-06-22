@@ -1,0 +1,368 @@
+vg|BBO1-2026EWTC-Prague-OT,FN_1_4,I,1,14,DE BOTTON,0,KNOTTENBELT,0|
+rs|4HN=,4HN=,3NE+1,3NW-1,4DN-1,3DN+1,4SN-2,3SN=,4HWx-2,3NS+2,4DS-2,3DS-2,4SS+2,4SS+2,3NE+1,3NW=,1HE=,1NN-2,3DN-3,2DS-3,5DWx=,5DW=,1NW-1,3HE-1,1NS+1,2HW-1,3NS+1,3NS+2|
+pn|E ERICHSEN,NIJSSEN,MALINOWSKI,VAN DE PAV,KNOTTENBEL,HELGEMO_,BYRNE_,HEIBERG-EV|pg||
+qx|o1|st||md|3ST92HAK43DKT75CK4,SJ763HT72DQ6CQJ53,SA4HQJ986DJ83CA76,SKQ85H5DA942CT982|sv|o|mb|1H|mb|p|mb|2N!|mb|p|mb|3C!|mb|p|mb|3H!|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|sK|pc|s2|pc|s3|pc|sA|pg||
+pc|h6|pc|h5|pc|hA|pc|h2|pg||
+pc|h3|pc|h7|pc|hQ|pc|d4|pg||
+pc|h8|pc|c2|pc|hK|pc|hT|pg||
+pc|cK|pc|c3|pc|c6|pc|c8|pg||
+pc|c4|pc|cJ|pc|cA|pc|c9|pg||
+pc|d3|pc|d2|pc|dT|pc|dQ|pg||
+mc|10|pg||
+qx|c1|st||md|3ST92HAK43DKT75CK4,SJ763HT72DQ6CQJ53,SA4HQJ986DJ83CA76,SKQ85H5DA942CT982|sv|o|mb|1H|mb|d|mb|2N!|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|sK|pc|s2|pc|s3|pc|sA|pg||
+pc|hJ|pc|h5|pc|h3|pc|h2|pg||
+pc|h8|pc|s5|pc|hA|pc|h7|pg||
+pc|h4|pc|hT|pc|hQ|pc|c8|pg||
+pc|dJ|pc|d4|pc|d5|pc|dQ|pg||
+mc|10|pg||
+qx|o2|st||md|4SKT72HAQ5D975C875,SQ83HT96DTCQJT962,SJ4HJ873DQ8643CK4,SA965HK42DAKJ2CA3|sv|n|mb|1C|an|2+|mb|p|mb|3C|an|preemptive|mb|p|mb|3N|an|something like 18-19|mb|p|mb|p|mb|p|pc|s2|pc|s3|pc|sJ|pc|sA|pg||
+pc|cA|pc|c5|pc|c2|pc|c4|pg||
+pc|c3|pc|c7|pc|cQ|pc|cK|pg||
+pc|dQ|pc|dA|pc|d7|pc|dT|pg||
+pc|dK|pc|d5|pc|h6|pc|d3|pg||
+pc|s5|pc|sK|pc|s8|pc|s4|pg||
+pc|d9|pc|h9|pc|d4|pc|dJ|pg||
+mc|10|pg||
+qx|c2|st||md|4SKT72HAQ5D975C875,SQ83HT96DTCQJT962,SJ4HJ873DQ8643CK4,SA965HK42DAKJ2CA3|sv|n|mb|1D|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h3|pc|h2|pc|hQ|pc|h6|pg||
+pc|hA|pc|h9|pc|h7|pc|h4|pg||
+pc|h5|pc|hT|pc|hJ|pc|hK|pg||
+pc|cA|pc|c5|pc|c2|pc|c4|pg||
+pc|c3|pc|c7|pc|cQ|pc|cK|pg||
+pc|h8|pc|s5|pc|s2|pc|s3|pg||
+pc|sJ|pc|s6|pc|sK|pc|s8|pg||
+mc|8|pg||
+qx|o3|st||md|1SQ98HJ953DT94CQT4,SK743HAK76DQJC863,SAJT2HQ8DAK8653CJ,S65HT42D72CAK9752|sv|e|mb|p|mb|1C|an|2+|mb|1D|mb|3C|an|preemptive|mb|p|mb|p|mb|3S|mb|p|mb|4D|mb|p|mb|p|mb|p|pc|cA|pc|c4|pc|c8|pc|cJ|pg||
+pc|h2|pc|h3|pc|hK|pc|h8|pg||
+pc|hA|pc|hQ|pc|h4|pc|h5|pg||
+pc|c3|pc|d3|pc|c2|pc|cT|pg||
+pc|dA|pc|d2|pc|d4|pc|dJ|pg||
+pc|d5|pc|d7|pc|d9|pc|dQ|pg||
+pc|c6|pc|dK|pc|c5|pc|cQ|pg||
+pc|d6|pc|c7|pc|dT|pc|h6|pg||
+pc|s9|pc|s3|pc|s2|pc|s5|pg||
+pc|sQ|pc|sK|pc|sA|pc|s6|pg||
+mc|9|pg||
+qx|c3|st||md|1SQ98HJ953DT94CQT4,SK743HAK76DQJC863,SAJT2HQ8DAK8653CJ,S65HT42D72CAK9752|sv|e|mb|p|mb|1C|mb|1D|mb|2S!|mb|p|mb|2N|mb|3D|mb|p|mb|p|mb|p|pc|cA|pc|c4|pc|c3|pc|cJ|pg||
+pc|h2|pc|h3|pc|hK|pc|h8|pg||
+pc|hA|pc|hQ|pc|h4|pc|h5|pg||
+pc|c6|pc|d3|pc|c2|pc|cT|pg||
+pc|dA|pc|d2|pc|d4|pc|dJ|pg||
+pc|dK|pc|d7|pc|d9|pc|dQ|pg||
+pc|d5|pc|c5|pc|dT|pc|c8|pg||
+pc|sQ|pc|s3|pc|sJ|pc|s5|pg||
+pc|s8|pc|s4|pc|s2|pc|s6|pg||
+mc|10|pg||
+qx|o4|st||md|2SQ864HA987DK92C83,S5H543DQJ875CAJ97,SJT932HKQJTDAT6CQ,SAK7H62D43CKT6542|sv|b|mb|p|mb|1S|mb|p|mb|3S|an|mixed raise|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|h6|pc|h7|pc|h3|pc|hJ|pg||
+pc|sJ|pc|sK|pc|s4|pc|s5|pg||
+pc|h2|pc|h8|pc|h4|pc|hQ|pg||
+pc|s2|pc|sA|pc|s6|pc|d5|pg||
+pc|c2|pc|c3|pc|cA|pc|cQ|pg||
+pc|h5|pc|hK|pc|s7|pc|h9|pg||
+pc|cK|pc|c8|pc|c7|pc|s9|pg||
+pc|hT|pc|c4|pc|hA|pc|c9|pg||
+pc|dK|pc|d7|pc|d6|pc|d3|pg||
+pc|d2|pc|dJ|pc|dA|pc|d4|pg||
+pc|dT|pc|c5|pc|d9|pc|dQ|pg||
+mc|8|pg||
+qx|c4|st||md|2SQ864HA987DK92C83,S5H543DQJ875CAJ97,SJT932HKQJTDAT6CQ,SAK7H62D43CKT6542|sv|b|mb|p|mb|1S|mb|p|mb|3D!|mb|p|mb|3S|mb|p|mb|p|mb|p|pc|h6|pc|h7|pc|h3|pc|hQ|pg||
+pc|cQ|pc|cK|pc|c3|pc|c7|pg||
+pc|h2|pc|hA|pc|h5|pc|hJ|pg||
+pc|c8|pc|cA|pc|s2|pc|c6|pg||
+pc|sJ|pc|sK|pc|s4|pc|s5|pg||
+pc|d3|pc|d2|pc|dQ|pc|dA|pg||
+pc|sT|pc|sA|pc|s6|pc|h4|pg||
+pc|d4|pc|dK|mc|9|pg||
+qx|o5|st||md|3ST3HKQ8DK86CAT874,S872HT97653DJ754C,SAQJ4H4DAT32CKQ92,SK965HAJ2DQ9CJ653|sv|n|mb|1C|an|2+|mb|p|mb|2C|an|Nat Inv+|mb|3H|nt|ahollan1:  NS 1@D = 5+@D (can be BAL 5@D) or 4441@C|pg||
+mb|3S|mb|4H|mb|d|mb|p|mb|p|mb|p|pc|cK|pc|c3|pc|c4|pc|h3|pg||
+pc|d4|pc|d3|pc|d9|pc|dK|pg||
+nt|ahollan1:   5 other table in 3N south|pg||
+nt|vugrapho2: whenever Oscar declares the first board and I'm operating, he's always doubled :)|pg||
+nt|vugrapho2: I'm not a good lucky charm for him :)|pg||
+nt|ahollan1:  helgemo sitting west did not find the (cough) lead-directing 3@H overcall|pg||
+pc|c7|pc|h5|pc|c2|pc|c5|pg||
+pc|d5|pc|dA|pc|dQ|pc|d6|pg||
+pc|c9|pc|c6|pc|cT|pc|h6|pg||
+pc|s7|pc|sA|pc|s5|pc|s3|pg||
+pc|cQ|pc|cJ|pc|cA|pc|h7|pg||
+pc|dJ|pc|d2|pc|s6|pc|d8|pg||
+pc|s2|pc|sJ|pc|sK|pc|sT|pg||
+nt|ahollan1:  not best defense allowing west to score small trump AND @DJ|pg||
+pc|s9|pc|c8|pc|s8|pc|sQ|pg||
+nt|ahollan1:  taking a decent save of -500 to good save of -300|pg||
+pc|dT|pc|hJ|pc|hQ|pc|d7|pg||
+mc|8|nt|ahollan1:  malinowski just couldn't imagine nijssen 3@H with neither trump royal|pg||
+pg||
+qx|c5|st||md|3ST3HKQ8DK86CAT874,S872HT97653DJ754C,SAQJ4H4DAT32CKQ92,SK965HAJ2DQ9CJ653|sv|n|mb|1D|mb|d|mb|r|mb|3H|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|s2|pc|s4|pc|sK|pc|s3|pg||
+pc|hJ|pc|hQ|pc|hT|pc|h4|pg||
+pc|c7|pc|s8|pc|cK|pc|c5|pg||
+pc|cQ|pc|c3|pc|c4|pc|s7|pg||
+pc|c9|pc|c6|pc|cT|pc|h3|pg||
+pc|cA|pc|h5|pc|c2|pc|cJ|pg||
+pc|c8|pc|h6|pc|d2|pc|s9|pg||
+pc|sT|pc|d5|pc|sJ|pc|s6|pg||
+pc|sQ|pc|s5|pc|h8|pc|h7|pg||
+pc|sA|pc|h2|pc|d6|pc|h9|pg||
+pc|d3|pc|d9|pc|dK|pc|d4|pg||
+pc|d8|pc|d7|pc|dA|pc|dQ|pg||
+pc|dT|pc|hA|pc|hK|pc|dJ|pg||
+pg||
+qx|o6|st||md|4S2HJ86DAQT932CAT3,SQJ9HAQDK8CJ98765,SKT8764HT9DJ7CK42,SA53HK75432D654CQ|sv|e|mb|2H|mb|3D|mb|3H|mb|3S|mb|p|mb|4D|mb|p|mb|p|mb|p|pc|hA|nt|ahollan1:  EW natural weak 2 openers in @D/@H/@S|pg||
+pc|h9|pc|h3|pc|h8|pg||
+nt|ahollan1:  NS 2@D weak @H/@S and 2M=M+@C/@D|pg||
+pc|c8|pc|c2|pc|cQ|pc|cA|pg||
+pc|s2|pc|s9|pc|sK|pc|sA|pg||
+pc|h2|pc|h6|pc|hQ|pc|hT|pg||
+pc|cJ|pc|cK|pc|d4|pc|c3|pg||
+pc|d5|pc|dA|pc|d8|pc|d7|pg||
+pc|hJ|pc|c5|pc|dJ|pc|hK|pg||
+pc|s4|pc|s3|pc|d2|pc|sJ|pg||
+pc|dT|pc|dK|pc|s6|pc|d6|pg||
+mc|8|pg||
+qx|c6|st||md|4S2HJ86DAQT932CAT3,SQJ9HAQDK8CJ98765,SKT8764HT9DJ7CK42,SA53HK75432D654CQ|sv|e|mb|p|mb|1D|mb|2C|mb|2S|mb|d|mb|3D|mb|p|mb|p|mb|p|pc|c9|pc|c2|pc|cQ|pc|cA|pg||
+pc|s2|pc|s9|pc|sK|pc|sA|pg||
+pc|h5|pc|h8|pc|hQ|pc|h9|pg||
+pc|sQ|pc|s4|pc|s3|pc|d2|pg||
+pc|h6|pc|hA|pc|hT|pc|h2|pg||
+pc|cJ|pc|cK|pc|d4|pc|c3|pg||
+pc|d5|pc|d3|pc|dK|pc|d7|pg||
+pc|c5|pc|c4|pc|d6|pc|cT|pg||
+pc|s5|pc|d9|mc|7|pg||
+qx|o7|st||md|1SQJ5HAKQ32D96CA97,S6H964DAT8754CJ32,SAKT83H875DKQ2CQT,S9742HJTDJ3CK8654|sv|b|nt|ahollan1:   6 other room in 3@D  east did not open|pg||
+mb|1N|mb|p|nt|ahollan1:  both 3@D and 4@D were down 2.  too sleepy to figure out if it was defense or declarer play issue|pg||
+mb|2C|mb|p|mb|2H|mb|p|mb|3H!|an|5!S3!H GF|mb|p|nt|ahollan1:  other room had expected start of 1N-2@H//2@S-3N|pg||
+nt|ahollan1:  don't know NS system so this choice is a mystery|pg||
+mb|3S!|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|ahollan1:  no helpful clues from the NS convention card|pg||
+pc|c2|pc|cT|pc|cK|pc|cA|pg||
+nt|ahollan1:  stayman then new suit = transfer??|pg||
+pc|sQ|pc|s6|pc|s3|pc|s2|pg||
+nt|ahollan1:  interesting to be able to show 5M and 3OM|pg||
+pc|sJ|pc|d4|pc|s8|pc|s4|pg||
+pc|s5|pc|d5|pc|sA|pc|s7|pg||
+pc|sK|pc|s9|nt|ahollan1:  that was ony chance to find the slam|pg||
+pc|c7|pc|d7|pg||
+pc|h5|pc|hT|pc|hA|pc|h4|pg||
+pc|hK|pc|h6|pc|h7|pc|hJ|pg||
+mc|12|pg||
+qx|c7|st||md|1SQJ5HAKQ32D96CA97,S6H964DAT8754CJ32,SAKT83H875DKQ2CQT,S9742HJTDJ3CK8654|sv|b|mb|1N|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c2|pc|cT|pc|c4|pc|c7|pg||
+pc|s3|pc|s4|pc|sJ|pc|s6|pg||
+pc|sQ|pc|d4|pc|s8|pc|s2|pg||
+pc|d6|pc|dA|pc|d2|pc|d3|pg||
+pc|d8|pc|dQ|pc|dJ|pc|d9|pg||
+mc|12|pg||
+qx|o8|st||md|2SJT52HQ986DQ943CT,SA83HAT432DAJ6CK9,SQ976HKJD82CA7643,SK4H75DKT75CQJ852|sv|o|mb|1H|nt|ahollan1:  best way to reach slam would have been -- crystal ball|pg||
+mb|p|mb|1N|mb|p|mb|2C!|an|gazzilli|mb|p|mb|2D!|an|8-11|mb|p|nt|ahollan1:  1st seat non-vul EW 1N = 10-13 so 1@H gets the nod|pg||
+mb|2N|an|16+ BAL|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|ahollan1:  other room 1N-3N-end|pg||
+nt|ahollan1:  2@C gazzilli - nat or 16+|pg||
+nt|ahollan1:  2@D 8+, FG opposite strong hand|pg||
+pc|s2|pc|sA|pc|s6|pc|s4|pg||
+nt|ahollan1:  played by west, helgemo recived lead of @Cx|pg||
+pc|cK|pc|cA|pc|c2|pc|cT|pg||
+pc|s7|pc|sK|pc|s5|pc|s3|pg||
+pc|c5|pc|d4|pc|c9|pc|c7|pg||
+pc|d6|pc|d8|pc|dK|pc|d3|pg||
+pc|cQ|pc|h6|pc|h2|pc|c3|pg||
+pc|cJ|pc|sJ|nt|ahollan1:  old CC for EW  https://www.bridge.nl/wp-content/uploads/2025/02/Nijssen-vdPaverd-systeemkaart.pdf|pg||
+pc|h3|pc|c4|pg||
+pc|c8|pc|sT|pc|h4|pc|c6|pg||
+pc|d5|pc|d9|pc|dJ|pc|d2|pg||
+nt|ahollan1:  the card submitted for this event has really bad formattig|pg||
+mc|10|pg||
+qx|c8|st||md|2SJT52HQ986DQ943CT,SA83HAT432DAJ6CK9,SQ976HKJD82CA7643,SK4H75DKT75CQJ852|sv|o|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|c4|pc|c2|pc|cT|pc|cK|pg||
+pc|c9|pc|c6|pc|cQ|pc|s2|pg||
+pc|d5|pc|d3|pc|dJ|pc|d2|pg||
+pc|dA|pc|d8|pc|d7|pc|d4|pg||
+pc|d6|pc|s6|pc|dK|pc|d9|pg||
+pc|cJ|pc|s5|pc|h2|pc|c3|pg||
+pc|c8|pc|h6|pc|h3|pc|cA|pg||
+pc|c7|pc|c5|pc|sT|pc|h4|pg||
+pc|hK|pc|h5|pc|h9|pc|hA|pg||
+pc|s3|pc|s7|pc|sK|pc|sJ|pg||
+pc|s4|pc|dQ|pc|sA|pc|sQ|pg||
+pc|s8|mc|9|pg||
+qx|o9|st||md|3S962H973DAJT52C74,SK75HKJ2DKQ6CQT82,SAQ83HQT6D87CKJ65,SJT4HA854D943CA93|sv|e|mb|1C|an|2+|mb|p|mb|1D|mb|d|mb|p|mb|1H|mb|p|mb|p|nt|ahollan1:  interesting [to me] that the lead on  8 that seemed least damaging led to 9 tricks and the one that seemed favorable for defense led to overtrick|pg||
+mb|p|pc|c7|pc|c2|pc|cJ|pc|cA|pg||
+pc|h4|pc|h3|pc|hJ|pc|hQ|pg||
+pc|cK|pc|c3|pc|c4|pc|c8|pg||
+pc|c6|pc|c9|pc|h7|pc|cT|pg||
+pc|d2|pc|dK|pc|d8|pc|d3|pg||
+pc|hK|pc|h6|pc|h5|pc|h9|pg||
+pc|cQ|pc|c5|pc|d4|pc|d5|pg||
+pc|h2|pc|hT|pc|hA|pc|s2|pg||
+pc|sJ|pc|s6|pc|s5|pc|sQ|pg||
+pc|d7|pc|d9|pc|dA|pc|d6|pg||
+pc|s9|nt|ahollan1:  i wonder if erichsen played for @SA & @HA to be switched|pg||
+pc|s7|mc|7|pg||
+qx|c9|st||md|3S962H973DAJT52C74,SK75HKJ2DKQ6CQT82,SAQ83HQT6D87CKJ65,SJT4HA854D943CA93|sv|e|mb|1C!|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|sJ|pc|s2|pc|s5|pc|sQ|pg||
+pc|d7|pc|d3|pc|dT|pc|dQ|pg||
+pc|c8|pc|cJ|pc|cA|pc|c4|pg||
+pc|sT|pc|s6|pc|s7|pc|sA|pg||
+pc|s3|pc|s4|pc|s9|pc|sK|pg||
+pc|c2|pc|cK|pc|c3|pc|c7|pg||
+pc|s8|pc|h5|pc|d2|pc|hJ|pg||
+pc|h6|pc|h4|pc|h9|pc|hK|pg||
+pc|cQ|pc|c5|pc|c9|pc|d5|pg||
+pc|cT|pc|c6|pc|h8|pc|h3|pg||
+pc|h2|pc|hT|pc|hA|pc|h7|pg||
+pc|d4|mc|5|pg||
+qx|o10|st||md|4SJ32HAJ975D53CKQ3,SAHKQT6D874CAJ964,ST9876H4DAQ962C85,SKQ54H832DKJTCT72|sv|b|nt|ahollan1:  did anyone check to see if @C ruff - @S switch would have been better for the defense?|pg||
+mb|p|mb|p|mb|1C|an|2+ !C|mb|1D|mb|1S!|an|Xfer to NT, 3-!S|mb|2H|mb|p|mb|2S|mb|p|mb|2N|mb|p|nt|ahollan1:  other south opened 1@H and is playing 2@D on an xyz auction|pg||
+mb|3D|mb|p|mb|p|mb|p|pc|c2|nt|dburn:  North may be regretting having embarked on this adventure|pg||
+pc|cK|pc|cA|pc|c5|pg||
+pc|cJ|pc|c8|pc|cT|pc|cQ|pg||
+pc|s2|pc|sA|pc|s6|pc|s4|pg||
+pc|c9|pc|d2|pc|c7|pc|c3|pg||
+pc|s9|pc|sQ|pc|s3|pc|c4|pg||
+nt|dburn:  somewhat fortunate not to have been doubled|pg||
+nt|ahollan1:  is north known for having regrets?|pg||
+pc|sK|pc|sJ|pc|hT|pc|s7|pg||
+pc|s5|pc|h5|pc|d4|pc|s8|pg||
+pc|c6|pc|d9|pc|dT|pc|h7|pg||
+pc|h2|pc|hA|pc|h6|pc|h4|pg||
+pc|d3|pc|d7|nt|dburn:  he seldom does things at the bridge table that he has cause to regret|pg||
+pc|dQ|pc|dK|pg||
+pc|h3|pc|h9|pc|hQ|pc|d6|pg||
+pc|dA|pc|dJ|pc|d5|pc|d8|pg||
+pc|sT|pc|h8|pc|hJ|pc|hK|pg||
+pg||
+qx|c10|st||md|4SJ32HAJ975D53CKQ3,SAHKQT6D874CAJ964,ST9876H4DAQ962C85,SKQ54H832DKJTCT72|sv|b|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2C!|mb|p|mb|2D!|mb|p|mb|p|mb|p|pc|sA|pc|s6|pc|s4|pc|s3|pg||
+pc|d4|pc|d9|pc|dJ|pc|d3|pg||
+pc|cT|pc|cQ|pc|cA|pc|c5|pg||
+pc|cJ|pc|c8|pc|c2|pc|cK|pg||
+pc|sJ|pc|d7|pc|s7|pc|s5|pg||
+pc|d8|pc|dQ|pc|dK|pc|d5|pg||
+pc|h8|pc|hA|pc|h6|pc|h4|pg||
+pc|h5|pc|hK|pc|d2|pc|h2|pg||
+pc|dA|pc|dT|pc|h7|pc|c4|pg||
+pc|s8|pc|sQ|pc|s2|pc|hT|pg||
+pc|h3|pc|h9|pc|hQ|pc|d6|pg||
+mc|5|pg||
+qx|o11|st||md|1SKJ98HAJT6D72CA94,ST2HQ954DAKQ64CT3,SQ743HK8732DCQJ52,SA65HDJT9853CK876|sv|o|nt|ahollan1:  my bad attempt at humour|pg||
+nt|dburn:  and that one didn't even lose him any IMPs, except in a marginal sense|pg||
+mb|1C|mb|1D|mb|1H|mb|5D|mb|p|mb|p|mb|d|mb|p|nt|ahollan1:   11 same start in other room but north Byrne did not DBL|pg||
+nt|dburn:  tough call, this - South would probably have raised only to 2@h, which augurs against bidding five now|pg||
+nt|dburn:  but at the other table 5@h would have been a save, given the actual defence to 5@d|pg||
+nt|dburn:  which consisted of @cQ to the king and ace, and @c9 to the ten and jack|pg||
+nt|ahollan1:  that other room defense was very declarer friendly |pg||
+nt|dburn:  after which declarer could throw a spade on a club, making five|pg||
+nt|dburn:  meanwhile, North can actually make 5@h if he does everything right|pg||
+nt|ahollan1:  hideous hog: if you're going to do the wrong thing then do it quickly|pg||
+nt|ahollan1:  i haven't read bridge in the menagerie this decade - will have to remedy that to so i can say i've read it at least once since its publication|pg||
+mb|p|mb|p|pc|cQ|nt|ahollan1:  interesting question.  IF long tank and then PASS does it suggest @H fit|pg||
+nt|ahollan1:  malinowski didn't allow it to sway opening lead|pg||
+pc|c6|pc|c4|pc|c3|pg||
+nt|ahollan1:  re: menagerie  ...  at least once per decade|pg||
+nt|dburn:  declarer can't afford to falsecard at trick one, so North will have a pretty good idea of the club position|pg||
+nt|vugrapho2: First you have to deduce who was thinking (and not take into consideration as UI), but I think that's the easier answer|pg||
+nt|dburn:  it's possible that South has @cA4, I guess, but even if he does a second club won't achieve much|pg||
+nt|ahollan1:  except NS play reverse attitude |pg||
+nt|ahollan1:  oh right because @CT|pg||
+nt|dburn:  maybe, but with those spots in dummy South would not go around discouraging with the nine or the ten|pg||
+nt|ahollan1:  south could have started @CAT9x|pg||
+nt|ahollan1:  or ATx|pg||
+nt|ahollan1:  @S shift still seems most likely to help defense|pg||
+nt|dburn:  he could, but a second club still wouldn't achieve much - although it would be safe whereas a spade might be into the @sKJ in the West hand|pg||
+nt|dburn:  taken a while, this board|pg||
+pc|cJ|pc|cK|pc|cA|pc|cT|pg||
+nt|ahollan1:  some might think this would be good time to play suit preference at trick one but south can't afford @C9|pg||
+nt|ahollan1:  opportunity lost|pg||
+nt|ahollan1:  seeing all 4 hands sure made it easier for us|pg||
+pc|c9|pc|dA|pc|c5|pc|c7|pg||
+mc|11|pg||
+qx|c11|st||md|1SKJ98HAJT6D72CA94,ST2HQ954DAKQ64CT3,SQ743HK8732DCQJ52,SA65HDJT9853CK876|sv|o|mb|1C!|mb|1D|mb|1H|mb|5D|mb|p|mb|p|mb|p|pc|cQ|pc|cK|pc|cA|pc|c3|pg||
+pc|c9|pc|cT|pc|cJ|mc|11|pg||
+qx|o12|st||md|2SA73HA6D642CT5432,SJT4HJ872DAQ97CK8,SQ9652HQT4DK8CQJ9,SK8HK953DJT53CA76|sv|n|nt|vugrapho2: Sensational set for Knottenbelt so far|pg||
+mb|1N|an|10-13|mb|p|mb|p|mb|p|pc|s5|pc|sK|pc|sA|pc|s4|pg||
+pc|s7|nt|ahollan1:  [trick question] which is better  3@H-1 or 1N-1|pg||
+pc|sJ|pc|sQ|pc|s8|pg||
+pc|s6|pc|c6|pc|s3|pc|sT|pg||
+pc|h2|pc|h4|pc|hK|pc|hA|pg||
+nt|dburn:  1N-2 in prospect now|pg||
+nt|ahollan1:  well that @H play brings -2 into play|pg||
+nt|ahollan1:  or what david said|pg||
+nt|dburn:  but South may not play a heart - defenders don't usually attack the same suits as declarer|pg||
+pc|d6|nt|ahollan1:  david typing faster than me|pg||
+nt|ahollan1:  wrong red 6|pg||
+nt|ahollan1:  author was definitely wrong naming his book "bridge is an easy game"|pg||
+nt|ahollan1:  i think that was a UK author|pg||
+nt|dburn:  Iain Macleod, I think|pg||
+nt|ahollan1:  right - i think he was from Scotland|pg||
+nt|dburn:  and compared to being Chancellor of the Exchequer in a Conservative government, bridge probably is an easy game|pg||
+pc|dA|pc|d8|pc|d3|pg||
+pc|d7|pc|dK|pc|d5|pc|d2|pg||
+pc|s9|pc|h3|pc|c5|pc|h7|pg||
+pc|s2|pc|h5|nt|dburn:  declarer deciding that South would not lead from @dK round to that dummy, so tried to drop it offside|pg||
+pc|c2|pc|c8|pg||
+pc|hQ|pc|h9|pc|h6|pc|h8|pg||
+mc|6|pg||
+qx|c12|st||md|2SA73HA6D642CT5432,SJT4HJ872DAQ97CK8,SQ9652HQT4DK8CQJ9,SK8HK953DJT53CA76|sv|n|mb|1D|mb|p|mb|1H|mb|p|mb|2H|mb|2S|mb|2N!|mb|p|mb|3H|mb|p|mb|p|mb|p|pc|sA|pc|s4|pc|s2|pc|s8|pg||
+pc|d4|pc|dQ|pc|dK|pc|d5|pg||
+pc|s5|pc|sK|pc|s7|pc|sT|pg||
+pc|c6|pc|c2|pc|cK|pc|c9|pg||
+pc|h2|pc|h4|pc|hK|pc|hA|pg||
+pc|d6|pc|d7|pc|d8|pc|dJ|pg||
+pc|h5|pc|h6|pc|h7|pc|hT|pg||
+mc|8|pg||
+qx|o13|st||md|3SQJ9HJ3DKJ83CQJ32,S82H9874DQ742CK74,SAT43HA65D965CAT9,SK765HKQT2DATC865|sv|b|nt|vugrapho2: announced the next segment will start at 12:35|pg||
+mb|1C!|an|2+|mb|d|mb|r|mb|1D|mb|p|mb|p|nt|vugrapho2: https://db.eurobridge.org/repository/competitions/26Prague/microsite/Results.htm|pg||
+nt|ahollan1:  i'm not sure if 1@D=nat or artificial negative.  historically 44 wouldn't rush to guess a suit|pg||
+nt|vugrapho2: Original times state here 12:20 but we had a delay in start to get all team matches moving|pg||
+mb|d|mb|1H|nt|ahollan1:  especially since unbid minor always suspect in modern takeout dbl|pg||
+mb|p|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|h9|pc|h5|pc|hQ|pc|h3|pg||
+pc|hK|pc|hJ|pc|h4|pc|h6|pg||
+pc|hT|pc|d3|pc|h7|pc|hA|pg||
+pc|s3|pc|s7|pc|sQ|pc|s8|pg||
+pc|c3|pc|c4|pc|c9|pc|c5|pg||
+pc|s4|pc|sK|pc|s9|pc|s2|pg||
+nt|ahollan1:  this will be best result for de botton this set|pg||
+pc|h2|nt|ahollan1:  plus in both rooms always feels good|pg||
+pc|c2|pc|h8|pc|d5|pg||
+nt|dburn:  they weren't plus at the other table|pg||
+nt|dburn:  but they will double their score|pg||
+nt|ahollan1:  oops - back to sleep al|pg||
+pc|c7|pc|cT|pc|c8|pc|cJ|pg||
+pc|sJ|pc|d2|pc|sA|pc|s5|pg||
+pc|d6|pc|dT|pc|dK|pc|d4|pg||
+pc|cQ|pc|cK|pc|cA|pc|c6|pg||
+pc|sT|pc|s6|pc|d8|pc|d7|pg||
+pc|d9|pc|dA|pc|dJ|pc|dQ|pg||
+pg||
+qx|c13|st||md|3SQJ9HJ3DKJ83CQJ32,S82H9874DQ742CK74,SAT43HA65D965CAT9,SK765HKQT2DATC865|sv|b|mb|1C!|mb|d|mb|1D|mb|p|mb|1N|mb|p|mb|p|mb|2H|mb|p|mb|p|mb|p|pc|d5|pc|dT|pc|dK|pc|d4|pg||
+pc|cQ|pc|cK|pc|cA|pc|c5|pg||
+pc|cT|pc|c6|pc|c2|pc|c4|pg||
+pc|c9|pc|c8|pc|c3|pc|c7|pg||
+pc|d6|pc|dA|pc|d3|pc|d7|pg||
+pc|hK|pc|h3|pc|h4|pc|h5|pg||
+pc|hQ|pc|hJ|pc|h7|pc|hA|pg||
+pc|h6|pc|h2|pc|cJ|pc|h8|pg||
+pc|s2|mc|7|pg||
+qx|o14|st||md|4SA72H743DAK54CJ42,SQJ3HQJTDQT9CKT65,SK854HAK6D3CAQ987,ST96H9852DJ8762C3|sv|o|nt|ahollan1:  lose 3 style points for not claiming after @DK took a trick|pg||
+mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|hQ|nt|ahollan1:  NS convention card says 1@D with 4@D only if 4441@C|pg||
+nt|vugrapho2: so see you in about 30 minutes from now|pg||
+nt|ahollan1:  thanks Jurica|pg||
+nt|vugrapho2: thanks for all the help and to all our kibitzers|pg||
+pc|hA|pc|h5|pc|h3|pg||
+pc|cA|pc|c3|pc|c4|pc|c5|pg||
+pc|c7|pc|s6|pc|cJ|pc|cK|pg||
+pc|hT|nt|vugrapho2: claim coming, taking top tricks|pg||
+pc|hK|pc|h2|pc|h4|pg||
+nt|ahollan1:  acolites would respond 2@C rather than 1@S.  this past few decades MAFIA rules (majors first)|pg||
+mc|10|nt|ahollan1:  i think meckwell used to say only bid 2@C if 6@C 4@H/@S|pg||
+nt|dburn:  declarer didn't claim at the other table, and both defenders threw spades to keep diamonds|pg||
+nt|ahollan1:  and FG|pg||
+nt|vugrapho2: I have to close, not to crash the table, byeeee :)|pg||
+nt|Cantorm:  Hi Al. Iâll be here for next set. Yo7?|pg||
+pg||
+qx|c14|st||md|4SA72H743DAK54CJ42,SQJ3HQJTDQT9CKT65,SK854HAK6D3CAQ987,ST96H9852DJ8762C3|sv|o|mb|p|mb|1D|mb|p|mb|2C|mb|p|mb|2N|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|hQ|pc|hA|pc|h9|pc|h7|pg||
+pc|c7|pc|c3|pc|cJ|pc|cK|pg||
+pc|hT|pc|h6|pc|h2|pc|h4|pg||
+pc|hJ|pc|hK|pc|h5|pc|h3|pg||
+pc|cA|pc|d8|pc|c4|pc|c5|pg||
+pc|s4|pc|s9|pc|sA|pc|s3|pg||
+pc|c2|pc|cT|pc|cQ|pc|h8|pg||
+pc|c9|pc|s6|pc|d5|pc|c6|pg||
+pc|c8|pc|d6|pc|d4|pc|sJ|pg||
+pc|d3|pc|d2|pc|dK|pc|d9|pg||
+pc|dA|pc|dT|pc|s5|pc|d7|pg||
+pc|s2|pc|sQ|pc|sK|pc|sT|pg||
+pc|s8|pc|dJ|pc|s7|pc|dQ|pg||
+pg||

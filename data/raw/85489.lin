@@ -1,0 +1,105 @@
+vg|Jerome and friends,BBO+ Live,I,1,16,Jerome and Leo,0,Olivia and Finn,0|
+rs|3NS+1,3NN-1,3NN=,3SSx-1,2CE-1,3NW-1,,1NW+1,,,,,,,,,,,,,,,,,,,,,,,,|
+pn|serapuff,bonitafred,moga321,chocopiggy,South,West,North,East|pg||
+qx|o1|st||md||sv|o|rh||ah|Board 1|sv|o|mb|1C|mb|p|mb|1H|mb|p|mb|3C|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|ST|pc|SA|pc|S3|pc|S2|pg||
+pc|HQ|pc|H3|pc|H5|pc|HK|pg||
+pc|DA|pc|D3|pc|D5|pc|D7|pg||
+pc|D6|pc|DQ|pc|DK|pc|D9|pg||
+pc|D2|pc|DT|pc|D4|pc|C2|pg||
+pc|HA|pc|H2|pc|H7|pc|H4|pg||
+pc|HJ|pc|H9|pc|C5|pc|S5|pg||
+pc|DJ|pc|C4|pc|C7|pc|D8|pg||
+pc|CK|pc|CT|pc|C9|pc|C3|pg||
+pc|SQ|pc|S4|pc|S8|pc|S6|pg||
+pc|SJ|pc|S7|pc|SK|pc|C6|pg||
+pc|CA|pc|C8|pc|H6|pc|S9|pg||
+pc|CQ|pc|CJ|pc|H8|pc|HT|pg||
+pg||
+qx|c1|st||md||sv|o|rh||ah|Board 1|sv|o|mb|1C|mb|p|mb|1H|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|S6|pc|SQ|pc|S4|pc|S8|pg||
+pc|CK|pc|CT|pc|C2|pc|C3|pg||
+pc|S2|pc|S7|pc|SA|pc|S3|pg||
+pc|CA|pc|C6|pc|H5|pc|C4|pg||
+pc|CQ|pc|C8|pc|D7|pc|D4|pg||
+pc|HQ|pc|H3|pc|H6|pc|HK|pg||
+pc|ST|pc|SK|pc|S5|pc|SJ|pg||
+pc|H7|pc|H4|pc|HJ|pc|HT|pg||
+pc|HA|pc|H2|pc|C5|pc|D2|pg||
+pc|DJ|pc|DA|pc|D3|pc|D8|pg||
+pc|H9|pc|DQ|pc|D5|pc|H8|pg||
+pc|S9|pc|C7|pc|CJ|pc|D9|pg||
+pc|D6|pc|C9|pc|DK|pc|DT|pg||
+pg||
+qx|o2|st||md||sv|n|rh||ah|Board 2|sv|n|mb|2D|mb|d|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|DK|pc|D3|pc|D6|pc|D7|pg||
+pc|DQ|pc|DJ|pc|H5|pc|DA|pg||
+pc|SQ|pc|S2|pc|S4|pc|SK|pg||
+pc|H7|pc|H3|pc|H4|pc|H9|pg||
+pc|H2|pc|HA|pc|H6|pc|D2|pg||
+pc|H8|pc|HJ|pc|D4|pc|HQ|pg||
+pc|CQ|pc|C6|pc|C3|pc|C2|pg||
+pc|C4|pc|CA|pc|C5|pc|C8|pg||
+pc|HT|pc|D9|pc|D5|pc|HK|pg||
+pc|SA|pc|S3|pc|S6|pc|S7|pg||
+pc|S5|pc|C7|pc|SJ|pc|D8|pg||
+mc|9|pg||
+qx|c2|st||md||sv|n|rh||ah|Board 2|sv|n|nt|vugraphd2:  caviy->Table:  Sorry p|pg||
+nt|vugraphd2:  caviy->Table:  bad play|pg||
+mb|2D|mb|2S|mb|d|mb|p|mb|3D|mb|p|mb|p|mb|3S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pc|D6|pc|DA|pc|D8|pc|D3|pg||
+pc|SQ|pc|S2|pc|S4|pc|SK|pg||
+pc|HA|pc|H3|pc|H4|pc|H9|pg||
+pc|H5|pc|HJ|pc|S7|pc|H2|pg||
+pc|DK|pc|DJ|pc|C6|pc|D7|pg||
+pc|DQ|pc|ST|pc|C7|pc|D9|pg||
+pc|SA|pc|S3|pc|S6|pc|D2|pg||
+pc|S5|pc|C9|pc|SJ|pc|D4|pg||
+pc|H6|pc|D5|pc|HK|pc|H7|pg||
+pc|HQ|pc|H8|pc|C3|pc|DT|pg||
+pc|C4|pc|CA|pc|CK|pc|C2|pg||
+pc|CJ|pc|C5|pc|C8|pc|CQ|pg||
+pc|S9|pc|HT|pc|S8|pc|CT|pg||
+pg||
+qx|o3|st||md||sv|e|rh||ah|Board 3|sv|e|mb|1D|mb|p|mb|p|mb|2C|mb|p|mb|p|mb|p|pc|H9|pc|HT|pc|H3|pc|H4|pg||
+pc|C2|pc|C5|pc|CA|pc|C3|pg||
+pc|DK|pc|DA|pc|D2|pc|D4|pg||
+pc|HJ|pc|H5|pc|H2|pc|HA|pg||
+pc|C9|pc|CT|pc|D5|pc|C6|pg||
+pc|H8|pc|H6|pc|H7|pc|HK|pg||
+pc|C8|pc|CJ|pc|S4|pc|CQ|pg||
+pc|ST|pc|SK|pc|SA|pc|S5|pg||
+pc|SJ|pc|S7|pc|S2|pc|SQ|pg||
+pc|C7|pc|D3|pc|D8|pc|CK|pg||
+pc|S9|pc|S3|pc|D6|pc|S8|pg||
+pc|S6|pc|C4|pc|D9|pc|DT|pg||
+pc|HQ|pc|DJ|pc|DQ|pc|D7|pg||
+pg||
+qx|c3|st||md||sv|e|rh||ah|Board 3|sv|e|mb|1D|mb|p|mb|1S|mb|d|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|D7|pc|DK|pc|DA|pc|D2|pg||
+pc|D3|pc|DT|pc|D4|pc|C4|pg||
+pc|S4|pc|S2|pc|SQ|pc|SA|pg||
+pc|DJ|pc|DQ|pc|C5|pc|S3|pg||
+pc|H5|pc|H2|pc|HQ|pc|H8|pg||
+pc|HK|pc|H9|pc|H6|pc|H3|pg||
+pc|HA|pc|HJ|pc|HT|pc|H7|pg||
+pc|H4|pc|SJ|pc|S5|pc|S6|pg||
+pc|SK|pc|C3|pc|S7|pc|S9|pg||
+pc|CA|pc|CJ|pc|C2|pc|C6|pg||
+pc|C7|pc|CT|pc|S8|pc|CK|pg||
+pc|CQ|pc|C9|pc|D6|pc|D5|pg||
+pc|ST|pc|C8|pc|D9|pc|D8|pg||
+pg||
+qx|c4|st||md||sv|b|rh||ah|Board 4|sv|b|mb|p|mb|1C|mb|p|mb|1S|mb|p|nt|vugraphd2:  mari11k->Table:  1 min pls|pg||
+mb|p|nt|vugraphd2:  mari11k->Table:  brb|pg||
+mb|d|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|SA|pc|S4|pc|S2|pc|S6|pg||
+pc|SQ|pc|SJ|pc|S5|pc|SK|pg||
+pc|D2|pc|D5|pc|D8|pc|DA|pg||
+pc|ST|pc|S9|pc|S3|pc|H4|pg||
+pc|S7|pc|S8|pc|C5|pc|H8|pg||
+pc|C3|pc|CK|pc|CA|pc|C2|pg||
+pc|DT|pc|D3|pc|D9|pc|D7|pg||
+pc|D6|pc|D4|pc|DQ|pc|H3|pg||
+pc|DK|pc|H6|pc|DJ|pc|H2|pg||
+pc|C8|pc|CQ|pc|C4|pc|C6|pg||
+pc|H7|pc|HA|pc|HT|pc|H5|pg||
+pc|CJ|pc|C7|pc|C9|pc|CT|pg||
+pc|HJ|pc|HK|pc|H9|nt|vugraphd2:  zoralin->Table:  wdp|pg||
+pc|HQ|pg||
+nt|vugraphd2:  Vugraph is complete, table will close in 1 minutes|pg||
+pg||
