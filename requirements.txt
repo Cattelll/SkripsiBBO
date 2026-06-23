@@ -5,6 +5,10 @@ matplotlib>=3.7.0
 seaborn>=0.12.0
 joblib>=1.3.0
 
+# Deep Learning — MLP dan LSTM
+tensorflow>=2.13.0
+keras>=2.13.0
+
 # Double Dummy Solver — untuk DDS labeling (Step 4)
 endplay>=0.4.7
 
